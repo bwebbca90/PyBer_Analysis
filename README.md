@@ -7,6 +7,7 @@ PyBer's CEO has requested a summary and visualization of the ride data by city t
 
 ### Average Cost by City Type
 ![Image of Average Cost by Type](<./analysis/avg_cost_by_type.png>) 
+
 There is a significant disparity in the number of rides and drivers between the three city types. 
 - Urban areas have the most rides taken but nearly twice the number of drivers, significantly reducing the money to be made per driver. 
 - There is a decent balance between the number of rides taken and drivers available in the suburban area.
